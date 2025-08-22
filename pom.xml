@@ -11,6 +11,10 @@
   <name>Sample App</name>
   <description>A simple Maven project for Dependabot exclude-paths testing</description>
 
+  <modules>
+     <module>apps/foo/bar</module>
+  </modules>
+
   <dependencies>
     <dependency>
       <groupId>commons-io</groupId>
