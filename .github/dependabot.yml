@@ -6,3 +6,4 @@ updates:
       interval: "weekly"
     exclude-paths:
       - "apps/foo/**"
+
